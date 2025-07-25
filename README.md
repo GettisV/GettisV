@@ -1,6 +1,6 @@
 <br clear="both">
 
-<img align="right" height="350" src="https://www.upload.ee/download/18386492/6e8ab6d9fa7f210a179b/_________.png"  />
+<img align="right" height="350" src="https://www.upload.ee/image/18386492/_________.png"  />
 
 ###
 
