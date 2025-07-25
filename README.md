@@ -8,14 +8,6 @@
 
 <p align="left">Занимаюсь frontend разработкой на энтузиазме. Курсов не проходил, имею среднее-специальное образование по веб-разработке, дальше развиваюсь самостоятельно.<br>Небольшой опыт имею с php, mysql, nodejs, storybook.</p>
 
-###
-
-<a href='https://t.me/fedyuncev' align="left">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white" height="25" alt="telegram logo"  />
-</a>
-
-###
-
 <h3 align="left">🛠 Хард-скиллы</h3>
 
 ###
