@@ -4,7 +4,7 @@
 
 ###
 
-<h2 align="center">Доброго времени суток 👋</h2>
+<h3 align="center">Доброго времени суток 👋</h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<div align="right">
+<div align="left">
   <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="25" alt="telegram logo"  />
 </div>
 
