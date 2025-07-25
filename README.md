@@ -1,10 +1,4 @@
-<br clear="both">
-
-<img align="right" height="350" src="https://www.upload.ee/image/18386492/_________.png"  />
-
-###
-
-<h3 align="center">Доброго времени суток 👋</h3>
+<h2 align="left">Доброго времени суток 👋</h2>
 
 ###
 
@@ -16,9 +10,9 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=flat" height="25" alt="telegram logo"  />
-</div>
+<a href='https://t.me/fedyuncev' align="left">
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white" height="25" alt="telegram logo"  />
+</a>
 
 ###
 
@@ -37,3 +31,9 @@
 </div>
 
 ###
+
+<div align="center">
+  <a href='https://t.me/fedyuncev'>
+    <img  height="350" src="https://www.upload.ee/image/18386492/_________.png"  />
+  </a>
+</div>
