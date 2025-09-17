@@ -26,6 +26,6 @@
 
 <div align="center">
   <a href='https://t.me/fedyuncev'>
-    <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/e6721259-f75a-4266-94bd-45020be8b604" />
+    <img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/9e47e5dd-9fac-45bd-a921-8b162fcb047b" />
   </a>
 </div>
